@@ -1,0 +1,15 @@
+/* GLOBAL STYLES */
+
+.wrapper {
+    width: 90%;
+    margin: 0 auto;
+}
+
+.top-bar {
+    background-color: #323232;
+    color: #ffffff;
+    width: 100%;
+    margin: 0 auto;
+    text-transform: uppercase;
+    text-align: center;
+}
